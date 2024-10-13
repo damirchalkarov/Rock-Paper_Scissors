@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "95353B97-F456-4515-880A-174DE65732A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48F40337-6620-4591-8B92-D92BB94E4847"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RPS/ThirdViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ThirdViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - 35cbf1891607a5dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RPS.ThirdViewController"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/RPS/ThirdViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - ec12b84fc4486212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RPS.ThirdViewController&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/RPS/ThirdViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - 333d9a3e85bcd9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.label.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/RPS/ThirdViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - 1ea725a460e79256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.label.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/RPS/ThirdViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - 7f04ac9e831382b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/RPS/ThirdViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+               <Location
+                  uuid = "48F40337-6620-4591-8B92-D92BB94E4847 - 19db339dba664c33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RPS.ThirdViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RPS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damirchalkarov/Desktop/IOS%20Course/RPS/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

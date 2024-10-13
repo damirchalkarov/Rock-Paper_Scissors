@@ -13,6 +13,8 @@
 		EB35D1672C983AA700363704 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EB35D1662C983AA700363704 /* Base */; };
 		EB35D1692C983AA800363704 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB35D1682C983AA800363704 /* Assets.xcassets */; };
 		EB35D16C2C983AA800363704 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EB35D16B2C983AA800363704 /* Base */; };
+		EBA0FA822CAAFDEB00D5006F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0FA812CAAFDEB00D5006F /* SecondViewController.swift */; };
+		EBC9861B2CADB0E400A5273B /* ManualViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC9861A2CADB0E400A5273B /* ManualViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EB35D1682C983AA800363704 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB35D16B2C983AA800363704 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB35D16D2C983AA800363704 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBA0FA812CAAFDEB00D5006F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		EBC9861A2CADB0E400A5273B /* ManualViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManualViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +63,9 @@
 				EB35D15F2C983AA700363704 /* AppDelegate.swift */,
 				EB35D1612C983AA700363704 /* SceneDelegate.swift */,
 				EB35D1632C983AA700363704 /* ViewController.swift */,
+				EBA0FA812CAAFDEB00D5006F /* SecondViewController.swift */,
 				EB35D1652C983AA700363704 /* Main.storyboard */,
+				EBC9861A2CADB0E400A5273B /* ManualViewController.swift */,
 				EB35D1682C983AA800363704 /* Assets.xcassets */,
 				EB35D16A2C983AA800363704 /* LaunchScreen.storyboard */,
 				EB35D16D2C983AA800363704 /* Info.plist */,
@@ -138,8 +144,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBA0FA822CAAFDEB00D5006F /* SecondViewController.swift in Sources */,
 				EB35D1642C983AA700363704 /* ViewController.swift in Sources */,
 				EB35D1602C983AA700363704 /* AppDelegate.swift in Sources */,
+				EBC9861B2CADB0E400A5273B /* ManualViewController.swift in Sources */,
 				EB35D1622C983AA700363704 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -295,6 +303,7 @@
 				DEVELOPMENT_TEAM = SQW9QT52A6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RPS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RPS;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -323,6 +332,7 @@
 				DEVELOPMENT_TEAM = SQW9QT52A6;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RPS/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RPS;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
